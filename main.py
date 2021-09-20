@@ -62,10 +62,10 @@ async def about(client, message):
         await SDbot.send_message(
                chat_id=message.chat.id,
                text="""<b>About Telegraph Bot!</b>
-<b>♞ Developer:</b> <a href="https://t.me/KingAmdaa">Sadew </a>
-<b>♞ Support:</b> <a href="https://t.me/queenamdi">SDBOTs inifinity Support</a>
+<b>♞ Developer:</b> <a href="https://t.me/KingAmdaa">King Amda</a>
+<b>♞ Support:</b> <a href="https://t.me/queenamdi">QUEEN AMDI SUPPORT</a>
 <b>♞ Repo :</b> <a href="https://github.com/King-Amda/Telegraph-Uploader">Repo</a>
-<b>~ @SDBotsz</b>""",
+<b>~ @KingAmdaa</b>""",
      reply_markup=InlineKeyboardMarkup(
                                 [[
                                         InlineKeyboardButton(
